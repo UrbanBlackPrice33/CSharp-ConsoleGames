@@ -1,0 +1,7 @@
+C:\Users\Gabriel Nikolov\source\repos\SimpleSnakeGame\SimpleSnakeGame\bin\Debug\SimpleSnakeGame.exe.config
+C:\Users\Gabriel Nikolov\source\repos\SimpleSnakeGame\SimpleSnakeGame\bin\Debug\SimpleSnakeGame.exe
+C:\Users\Gabriel Nikolov\source\repos\SimpleSnakeGame\SimpleSnakeGame\bin\Debug\SimpleSnakeGame.pdb
+C:\Users\Gabriel Nikolov\source\repos\SimpleSnakeGame\SimpleSnakeGame\obj\Debug\SimpleSnakeGame.csprojAssemblyReference.cache
+C:\Users\Gabriel Nikolov\source\repos\SimpleSnakeGame\SimpleSnakeGame\obj\Debug\SimpleSnakeGame.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Nikolov\source\repos\SimpleSnakeGame\SimpleSnakeGame\obj\Debug\SimpleSnakeGame.exe
+C:\Users\Gabriel Nikolov\source\repos\SimpleSnakeGame\SimpleSnakeGame\obj\Debug\SimpleSnakeGame.pdb
