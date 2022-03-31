@@ -1,0 +1,12 @@
+C:\Users\Gabriel Nikolov\source\repos\SimpleSnakeGameStoyanShopovVersion\SimpleSnake\bin\Debug\netcoreapp2.1\SimpleSnake.deps.json
+C:\Users\Gabriel Nikolov\source\repos\SimpleSnakeGameStoyanShopovVersion\SimpleSnake\bin\Debug\netcoreapp2.1\SimpleSnake.runtimeconfig.json
+C:\Users\Gabriel Nikolov\source\repos\SimpleSnakeGameStoyanShopovVersion\SimpleSnake\bin\Debug\netcoreapp2.1\SimpleSnake.runtimeconfig.dev.json
+C:\Users\Gabriel Nikolov\source\repos\SimpleSnakeGameStoyanShopovVersion\SimpleSnake\bin\Debug\netcoreapp2.1\SimpleSnake.dll
+C:\Users\Gabriel Nikolov\source\repos\SimpleSnakeGameStoyanShopovVersion\SimpleSnake\bin\Debug\netcoreapp2.1\SimpleSnake.pdb
+C:\Users\Gabriel Nikolov\source\repos\SimpleSnakeGameStoyanShopovVersion\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.csprojAssemblyReference.cache
+C:\Users\Gabriel Nikolov\source\repos\SimpleSnakeGameStoyanShopovVersion\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.AssemblyInfoInputs.cache
+C:\Users\Gabriel Nikolov\source\repos\SimpleSnakeGameStoyanShopovVersion\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.AssemblyInfo.cs
+C:\Users\Gabriel Nikolov\source\repos\SimpleSnakeGameStoyanShopovVersion\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Nikolov\source\repos\SimpleSnakeGameStoyanShopovVersion\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.dll
+C:\Users\Gabriel Nikolov\source\repos\SimpleSnakeGameStoyanShopovVersion\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.pdb
+C:\Users\Gabriel Nikolov\source\repos\SimpleSnakeGameStoyanShopovVersion\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.genruntimeconfig.cache
